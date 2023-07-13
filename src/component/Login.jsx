@@ -49,15 +49,15 @@ const Login = () => {
             setEmailErr("Invalid Email!");
         }
 
-        //email: eve.holt@reqres.in
-        // password: cityslicka
-        // await axios.post('https://reqres.in/api/login', { email: email, password: password })
+        //Getting error while using this API so ihad used static pre-defined credentials
+       // await axios.post('https://api.worldref.dev/dealx/rest/api/v1/user/signin', { email: email, password: password })
         //     .then((res) => {
         //         console.log(res);
         //         setAutenticated(true)
         //         localStorage.setItem("token", res.data.token);
         //         localStorage.setItem("username", email);
         //         localStorage.setItem("state", true);
+        //         localStorage.setItem("isAuthenticated","true");
         //         if(authenticated){
         //             nav('/');
         //         }else{
