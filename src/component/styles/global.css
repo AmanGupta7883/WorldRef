@@ -1,0 +1,17 @@
+a{
+    color: #1580fa;
+    text-decoration: none;
+}
+.Button{
+    background-color: #1580fa;
+    color: white;
+    font-weight: 800;
+    padding: 0.5rem 1rem;
+}
+li{
+    list-style: none;
+    padding: 8px 1.5rem;
+    font-weight: 500;
+    font-size: 13px;
+    cursor: pointer;
+}

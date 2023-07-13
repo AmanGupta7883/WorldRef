@@ -1,0 +1,13 @@
+.date, .clDate{
+    border-bottom: 1px solid #ccc;
+}
+.card{
+    box-shadow: 0 0 22px #00000012;
+    width: 90vw;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    
+}
+.keywords li:hover{
+   border-bottom: none;
+}
